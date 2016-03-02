@@ -1,5 +1,6 @@
 
 ### [演示地址](http://shenjun1992722.github.io/the-Restless-Color/)
+**  最好在手机体验。 **
 
 <br/>
 游戏背景：<br/>
